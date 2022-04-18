@@ -1,0 +1,2 @@
+# ANDORRA
+_CountryNameToISO($sCountry)     Local $sCountryCode     ;names and codes according to     ;http://www.iso.org/iso/country_codes/iso_3166_code_lists/country_names_and_code_elements.htm     ;updated in December 2013     If $sCountry = "AFGHANISTAN" Then $sCountryCode = "AF"     If $sCountry = "ÅLAND ISLANDS" Then $sCountryCode = "AX"     If $sCountry = "ALBANIA" Then $sCountryCode = "AL"     If $sCountry = "ALGERIA" Then $sCountryCode = "DZ"     If $sCountry = "AMERICAN SAMOA" Then $sCountryCode = "AS"     If $sCountry = "ANDORRA" Then $sCountryCode = "AD"
